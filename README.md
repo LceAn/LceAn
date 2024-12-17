@@ -18,7 +18,7 @@
 <br/>
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=github-compact&hide_border=true&area=true">
   <br/>
-  <img align="center" src="https://stats.justsong.cn/api/github?username=lceAn&theme=light" />
+  <img align="center" width="400" src="https://streak-stats.demolab.com?user=LceAn&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=9" />
 </p>
 
