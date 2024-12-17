@@ -1,6 +1,6 @@
-# Hello, I'm [你的名字] 👋
+# Hello, I'm LceAn 👋
 
-欢迎来到我的 GitHub 主页！我是一个热衷于编程和技术的开发者，目前专注于[你当前的技术方向，如 Web 开发、数据分析、人工智能等]。我一直在不断学习新技术，提升自己的技能，致力于在开发领域取得更多的成就。
+欢迎来到我的 GitHub 主页！我是一名热衷于编程和技术的开发者，目前专注于[你当前的技术方向，如 Web 开发、数据分析、人工智能等]。我喜欢探索新技术，开发实用的工具，解决复杂问题。
 
 ---
 
@@ -25,15 +25,15 @@
 ## 📈 我的 GitHub 活动
 
 <!-- 这里显示 GitHub 的统计图表 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LceAn&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ## 🌍 社交链接
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/你的LinkedIn用户名)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/你的Twitter用户名)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=ffffff)](mailto:你的邮箱)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/LceAn)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/LceAn)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=ffffff)](mailto:LceAn@example.com)
 
 ---
 
