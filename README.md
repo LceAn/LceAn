@@ -1,59 +1,41 @@
-# Hello, I'm LceAn 👋
+<p align="center">
+  <!-- 动态波浪背景图 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LceAn!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
+</p>
 
-欢迎来到我的 GitHub 主页！我是一名热衷于编程和技术的开发者，目前专注于[你当前的技术方向，如 Web 开发、数据分析、人工智能等]。我喜欢探索新技术，开发实用的工具，解决复杂问题。
+<!-- 打字效果 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+</p>
 
----
+<p align="center">
+  <!-- GitHub 统计 -->
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=LceAn&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+  <!-- GitHub 连续贡献记录 -->
+  <img align="center" width="400" src="https://streak-stats.demolab.com?user=LceAn&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+  <br/>
+  <!-- GitHub 活动图 -->
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=github-compact&hide_border=true&area=true">
+  <br/>
+  <!-- Wakatime 统计 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LceAn&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+  <!-- GitHub 语言使用统计 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+  <br/>
+  <!-- 技能图标 -->
+  <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab,go,docker&theme=light" />
+</p>
 
-## 🚀 技能
+<!-- 社交链接徽章 -->
+<p align="center">
+  <a href="https://github.com/LceAn"><img src="https://img.shields.io/badge/GitHub-LceAn-blue?logo=github" /></a>
+  <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-LceAn-pink?logo=bilibili" /></a>
+  <img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
+  <!-- GitHub 个人主页访问统计 -->
+  <img src="https://komarev.com/ghpvc/?username=LceAn&abbreviated=true&color=yellow" />
+</p>
 
-### 编程语言 & 工具
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=ffffff)
-![Shell](https://img.shields.io/badge/-Shell-89E051?style=flat&logo=gnu-bash&logoColor=ffffff)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
-
-### 框架 & 技术栈
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=ffffff)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=ffffff)
-
----
-
-## 📈 我的 GitHub 活动
-
-<!-- 这里显示 GitHub 的统计图表 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LceAn&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 🌍 社交链接
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/LceAn)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/LceAn)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=ffffff)](mailto:LceAn@example.com)
-
----
-
-## 📚 一些有趣的项目
-
-### [项目 1 名称](链接)
-简要描述这个项目的功能、用途和特点。
-
-### [项目 2 名称](链接)
-简要描述这个项目的功能、用途和特点。
-
-### [项目 3 名称](链接)
-简要描述这个项目的功能、用途和特点。
-
----
-
-## 📣 获取最新动态
-
-我在不断更新我的项目和分享技术文章，欢迎关注我的 GitHub，获取最新信息！
+<p align="center">
+  <!-- 结束波浪背景图 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
