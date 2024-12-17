@@ -14,40 +14,34 @@
 <!-- GitHub 统计信息 -->
 <p align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=LceAn&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
-  <img align="center" width="400" src="https://streak-stats.demolab.com?user=LceAn&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-  <br/>
+  <img align="center" src="https://stats.justsong.cn/api/github?username=lceAn&theme=light" />  
+<br/>
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=github-compact&hide_border=true&area=true">
   <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LceAn&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+  <img align="center" src="https://stats.justsong.cn/api/github?username=lceAn&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=9" />
 </p>
 
 <!-- 技能图标 -->
 <p align="center">
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,go,python,shell,docker,linux&theme=light" />
+  <img align="center" src="https://skillicons.dev/icons?i=docker,linux,bash&theme=light" />
+</p>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=python,c,cpp,dotnet,html,css,js,java,go&theme=light" />
+</p>
+<p align="center">
+  <img align="center" src="https://skillicons.dev/icons?i=django,flask,vue,md,nodejs&theme=light" />
 </p>
 
-<!-- 我的项目和开源贡献 -->
-## 🛠️ 主要项目
 
-### [Project 1: SQL Injection Test Tool](https://github.com/LceAn/sqli-labs)
-A powerful and efficient tool for learning and practicing SQL injection techniques.
-
-### [Project 2: Cybersecurity Automation](https://github.com/LceAn/security-tools)
-Automated security testing tools designed for network security, vulnerability scanning, and incident response.
-
-### [Project 3: Personal Security Dashboard](https://github.com/LceAn/security-dashboard)
-A real-time security monitoring dashboard to manage system alerts and vulnerabilities.
 
 ---
 
-## 🌍 我的社交链接
-
 <p align="center">
   <a href="https://github.com/LceAn"><img src="https://img.shields.io/badge/GitHub-LceAn-blue?logo=github" /></a>
-  <a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-LceAn-pink?logo=bilibili" /></a>
-  <a href="https://twitter.com/LceAn"><img src="https://img.shields.io/badge/Twitter-LceAn-1DA1F2?logo=twitter" /></a>
-  <img src="https://img.shields.io/badge/Email-LceAn%40example.com-red?logo=gmail" />
+  <a href="https://t.me/TG_orz"><img src="https://img.shields.io/badge/Telegram-LceAn-pink?logo=Telegram" /></a>
+  <a href="https://twitter.com/LceAn666"><img src="https://img.shields.io/badge/Twitter-LceAn-1DA1F2?logo=twitter" /></a>
+  <img src="https://img.shields.io/badge/Email-admin%40lcean.com-red?logo=gmail" />
   <img src="https://komarev.com/ghpvc/?username=LceAn&color=yellow" />
 </p>
 
