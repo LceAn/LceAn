@@ -1,6 +1,6 @@
 <!-- 头像和欢迎横幅 -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/63484787?v=4" alt="LceAn's Avatar" width="150" height="150" style="border-radius: 50%; margin-bottom: 10px;">
+<!--   <img src="https://avatars.githubusercontent.com/u/63484787?v=4" alt="LceAn's Avatar" width="150" height="150" style="border-radius: 50%; margin-bottom: 10px;"> -->
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LceAn!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
