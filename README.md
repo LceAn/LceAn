@@ -1,27 +1,25 @@
 <!-- 欢迎横幅，包含头像 -->
 <p align="center" style="position: relative;">
   <!-- 横幅背景 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20LceAn!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=40&desc=I%20am%20LceAn!&descAlign=50&descSize=30&descAlignY=70&animation=twinkling" alt="Banner">
 
   <!-- 头像，避免覆盖横幅文字 -->
-  <img src="https://avatars.githubusercontent.com/u/63484787?v=4" alt="LceAn's Avatar" width="150" height="150" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); position: absolute; top: 80%; left: 50%; transform: translate(-50%, -50%);">
+  <img src="https://avatars.githubusercontent.com/u/63484787?v=4" alt="LceAn's Avatar" width="150" height="150" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); position: absolute; top: 65%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
 </p>
 
 <!-- 技能语言 -->
-## 🛠️ 技能
 
-### 编程语言
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,js,html,css,dotnet&theme=light" />
 </p>
 
-### 框架与工具
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,vue,nodejs,linux,docker,bash&theme=light" />
 </p>
 
 ---
-  
+
 <!-- 打字效果显示你的专业领域 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity%2C+Automation%2C+Software+Development%2C+Tech%20Innovation" />
@@ -45,29 +43,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=radical&hide_border=true&layout=donut&langs_count=9" />
 </p>
 
-<!-- 主要项目 -->
-## 🛠️ 主要项目
-
-### [SQL Injection Test Tool](https://github.com/LceAn/sqli-labs)
-一个强大且高效的工具，用于学习和实践 SQL 注入技术。
-
-### [Cybersecurity Automation](https://github.com/LceAn/security-tools)
-自动化的安全测试工具，设计用于网络安全、漏洞扫描和事件响应。
-
-### [Personal Security Dashboard](https://github.com/LceAn/security-dashboard)
-一个实时安全监控仪表盘，用于管理系统警报和漏洞。
-
----
-
-<!-- 结束背景，嵌入社交链接按钮 -->
-<p align="center" style="position: relative;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Thanks%20For%20Visiting%20My%20GitHub!&fontSize=80&fontAlign=50&fontAlignY=30&desc=Keep%20Coding%20and%20Stay%20Safe!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Footer">
-
   <!-- 社交链接按钮，嵌入到结尾背景上 -->
-  <div style="position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%);">
+  <div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
     <a href="https://github.com/LceAn"><img src="https://img.shields.io/badge/GitHub-LceAn-blue?logo=github" /></a>
     <a href="https://t.me/TG_orz"><img src="https://img.shields.io/badge/Telegram-LceAn-pink?logo=telegram" /></a>
     <a href="https://twitter.com/LceAn666"><img src="https://img.shields.io/badge/Twitter-LceAn-1DA1F2?logo=twitter" /></a>
     <a href="mailto:admin@lcean.com"><img src="https://img.shields.io/badge/Email-admin%40lcean.com-red?logo=gmail" /></a>
   </div>
+
+<!-- 结束背景，嵌入社交链接按钮 -->
+<p align="center" style="position: relative;">
+  <!-- 结束背景 -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Thanks%20For%20Visiting%20My%20GitHub!&fontSize=80&fontAlign=50&fontAlignY=30&desc=Keep%20Coding%20and%20Stay%20Safe!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Footer">
+
+
 </p>
