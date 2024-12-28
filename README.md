@@ -32,8 +32,8 @@
 
 <!-- GitHub 统计信息 -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LceAn&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-  <img align="center" src="https://streak-stats.demolab.com?user=LceAn&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LceAn&show_icons=true&theme=light&hide_border=true&include_all_commits=true" />
+  <img align="center" src="https://streak-stats.demolab.com?user=LceAn&theme=light&hide_border=true&date_format=%5BY.%5Dn.j" />
 </p>
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=react-dark&hide_border=true&area=true" />
@@ -55,6 +55,4 @@
 <p align="center" style="position: relative;">
   <!-- 结束背景 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Thanks%20For%20Visiting%20My%20GitHub!&fontSize=80&fontAlign=50&fontAlignY=30&desc=Keep%20Coding%20and%20Stay%20Safe!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Footer">
-
-
 </p>
