@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=django,flask,vue,nodejs,linux,docker,bash&theme=light" />
 </p>
   <!-- 社交链接按钮，嵌入到结尾背景上 -->
-<div>
+<div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
     <a href="https://github.com/LceAn"><img src="https://img.shields.io/badge/GitHub-LceAn-blue?logo=github" /></a>
     <a href="https://t.me/TG_orz"><img src="https://img.shields.io/badge/Telegram-LceAn-pink?logo=telegram" /></a>
     <a href="https://twitter.com/LceAn666"><img src="https://img.shields.io/badge/Twitter-LceAn-1DA1F2?logo=twitter" /></a>
@@ -34,7 +34,7 @@
 <!-- GitHub 统计信息 -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LceAn&show_icons=true&theme=light&hide_border=true&include_all_commits=true" />
-  <img align="center" src="https://streak-stats.demolab.com?user=LceAn&theme=light&hide_border=true&date_format=%5BY.%5Dn.j" />
+  <img src="https://streak-stats.demolab.com?user=LceAn&theme=light&hide_border=true&date_format=%5BY.%5Dn.j" />
 </p>
 <p align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=light&hide_border=true&area=true" />
