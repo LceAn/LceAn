@@ -15,7 +15,7 @@
   <img src="https://skillicons.dev/icons?i=django,flask,vue,nodejs,linux,docker,bash&theme=light" />
 </p>
   <!-- 社交链接按钮，嵌入到结尾背景上 -->
-<div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
+<div align="center">
     <a href="https://github.com/LceAn"><img src="https://img.shields.io/badge/GitHub-LceAn-blue?logo=github" /></a>
     <a href="https://t.me/TG_orz"><img src="https://img.shields.io/badge/Telegram-LceAn-pink?logo=telegram" /></a>
     <a href="https://twitter.com/LceAn666"><img src="https://img.shields.io/badge/Twitter-LceAn-1DA1F2?logo=twitter" /></a>
