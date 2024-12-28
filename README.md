@@ -36,11 +36,11 @@
   <img align="center" src="https://streak-stats.demolab.com?user=LceAn&theme=light&hide_border=true&date_format=%5BY.%5Dn.j" />
 </p>
 <p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=react-dark&hide_border=true&area=true" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=light&hide_border=true&area=true" />
 </p>
 <p align="center">
   <img align="center" src="https://stats.justsong.cn/api/github?username=lceAn&theme=light" />  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=radical&hide_border=true&layout=donut&langs_count=9" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=light&hide_border=true&layout=donut&langs_count=9" />
 </p>
 
   <!-- 社交链接按钮，嵌入到结尾背景上 -->
