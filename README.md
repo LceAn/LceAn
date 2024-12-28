@@ -8,7 +8,6 @@
 </p>
 
 <!-- 技能语言 -->
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,js,html,css,dotnet&theme=light" />
 </p>
@@ -16,13 +15,12 @@
   <img src="https://skillicons.dev/icons?i=django,flask,vue,nodejs,linux,docker,bash&theme=light" />
 </p>
   <!-- 社交链接按钮，嵌入到结尾背景上 -->
-  <div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
+<div>
     <a href="https://github.com/LceAn"><img src="https://img.shields.io/badge/GitHub-LceAn-blue?logo=github" /></a>
     <a href="https://t.me/TG_orz"><img src="https://img.shields.io/badge/Telegram-LceAn-pink?logo=telegram" /></a>
     <a href="https://twitter.com/LceAn666"><img src="https://img.shields.io/badge/Twitter-LceAn-1DA1F2?logo=twitter" /></a>
     <a href="mailto:admin@lcean.com"><img src="https://img.shields.io/badge/Email-admin%40lcean.com-red?logo=gmail" /></a>
-  </div>
----
+</div>
 
 <!-- 打字效果显示你的专业领域 -->
 <p align="center">
@@ -31,7 +29,6 @@
 
 <!-- 关于我部分 -->
 ## 👨‍💻 关于我
-
 我是 **LceAn**，一名专注于网络安全、自动化、软件开发和技术创新的开发者。我热衷于探索新技术，开发实用工具，并致力于提升系统的安全性和效率。在我的 GitHub 上，你可以找到我参与的各种开源项目和技术分享。
 
 <!-- GitHub 统计信息 -->
