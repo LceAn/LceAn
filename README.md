@@ -12,12 +12,16 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,js,html,css,dotnet&theme=light" />
 </p>
-
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=django,flask,vue,nodejs,linux,docker,bash&theme=light" />
 </p>
-
+  <!-- 社交链接按钮，嵌入到结尾背景上 -->
+  <div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
+    <a href="https://github.com/LceAn"><img src="https://img.shields.io/badge/GitHub-LceAn-blue?logo=github" /></a>
+    <a href="https://t.me/TG_orz"><img src="https://img.shields.io/badge/Telegram-LceAn-pink?logo=telegram" /></a>
+    <a href="https://twitter.com/LceAn666"><img src="https://img.shields.io/badge/Twitter-LceAn-1DA1F2?logo=twitter" /></a>
+    <a href="mailto:admin@lcean.com"><img src="https://img.shields.io/badge/Email-admin%40lcean.com-red?logo=gmail" /></a>
+  </div>
 ---
 
 <!-- 打字效果显示你的专业领域 -->
@@ -43,13 +47,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=light&hide_border=true&layout=donut&langs_count=9" />
 </p>
 
-  <!-- 社交链接按钮，嵌入到结尾背景上 -->
-  <div style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
-    <a href="https://github.com/LceAn"><img src="https://img.shields.io/badge/GitHub-LceAn-blue?logo=github" /></a>
-    <a href="https://t.me/TG_orz"><img src="https://img.shields.io/badge/Telegram-LceAn-pink?logo=telegram" /></a>
-    <a href="https://twitter.com/LceAn666"><img src="https://img.shields.io/badge/Twitter-LceAn-1DA1F2?logo=twitter" /></a>
-    <a href="mailto:admin@lcean.com"><img src="https://img.shields.io/badge/Email-admin%40lcean.com-red?logo=gmail" /></a>
-  </div>
 
 <!-- 结束背景，嵌入社交链接按钮 -->
 <p align="center" style="position: relative;">
