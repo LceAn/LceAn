@@ -33,16 +33,14 @@
 
 <!-- GitHub 统计信息 -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LceAn&show_icons=true&theme=light&hide_border=true&include_all_commits=true" />
-  <img src="https://streak-stats.demolab.com?user=LceAn&theme=light&hide_border=true&date_format=%5BY.%5Dn.j" />
-</p>
-<p align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=light&hide_border=true&area=true" />
-</p>
-<p align="center">
+  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=LceAn&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+
+  <img align="center" width="400" src="https://streak-stats.demolab.com?user=LceAn&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=github-compact&hide_border=true&area=true">
+  <br/>
   <img align="center" src="https://stats.justsong.cn/api/github?username=lceAn&theme=light" />  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=light&hide_border=true&layout=donut&langs_count=9" />
-</p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=9" />
 
 
 <!-- 结束背景，嵌入社交链接按钮 -->
