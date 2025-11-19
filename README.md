@@ -1,11 +1,11 @@
-<!-- 欢迎横幅，包含头像 -->
+ <!-- 欢迎横幅，包含头像 -->
 <p align="center" style="position: relative;">
   <!-- 横幅背景 -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=40&desc=I%20am%20LceAn!&descAlign=50&descSize=30&descAlignY=70&animation=twinkling" alt="Banner">
 
-  <!-- 头像，避免覆盖横幅文字 -->
+  <!-- 头像，避免覆盖横幅文字
   <img src="https://avatars.githubusercontent.com/u/63484787?v=4" alt="LceAn's Avatar" width="150" height="150" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); position: absolute; top: 65%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
-</p>
+</p> -->
 
 <!-- 技能语言 -->
 <p align="center">
