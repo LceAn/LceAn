@@ -1,50 +1,216 @@
- <!-- 欢迎横幅，包含头像 -->
-<p align="center" style="position: relative;">
-  <!-- 横幅背景 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=40&desc=I%20am%20LceAn!&descAlign=50&descSize=30&descAlignY=70&animation=twinkling" alt="Banner">
+<!--
+👋 欢迎来到我的 GitHub 个人主页！
+📅 Last Updated: 2026
+🚀 Keep Coding, Stay Curious!
+-->
 
-  <!-- 头像，避免覆盖横幅文字
-  <img src="https://avatars.githubusercontent.com/u/63484787?v=4" alt="LceAn's Avatar" width="150" height="150" style="border-radius: 50%; border: 5px solid #fff; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); position: absolute; top: 65%; left: 50%; transform: translate(-50%, -50%); z-index: 10;">
-</p> -->
-
-<!-- 技能语言 -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,js,html,css,dotnet&theme=light" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,flask,vue,nodejs,linux,docker,bash&theme=light" />
-</p>
-  <!-- 社交链接按钮，嵌入到结尾背景上 -->
 <div align="center">
-    <a href="https://github.com/LceAn"><img src="https://img.shields.io/badge/GitHub-LceAn-blue?logo=github" /></a>
-    <a href="https://t.me/TG_orz"><img src="https://img.shields.io/badge/Telegram-LceAn-pink?logo=telegram" /></a>
-    <a href="https://twitter.com/LceAn666"><img src="https://img.shields.io/badge/Twitter-LceAn-1DA1F2?logo=twitter" /></a>
-    <a href="mailto:admin@lcean.com"><img src="https://img.shields.io/badge/Email-admin%40lcean.com-red?logo=gmail" /></a>
+
+# 👨‍💻 Hi, I'm LceAn
+
+[![GitHub](https://img.shields.io/badge/GitHub-LceAn-black?logo=github&style=for-the-badge)](https://github.com/LceAn)
+[![Telegram](https://img.shields.io/badge/Telegram-@TG__orz-26A5E4?logo=telegram&style=for-the-badge)](https://t.me/TG_orz)
+[![Twitter](https://img.shields.io/badge/Twitter-@LceAn666-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/LceAn666)
+[![Email](https://img.shields.io/badge/Email-admin@lcean.com-EA4335?logo=gmail&style=for-the-badge)](mailto:admin@lcean.com)
+
+---
+
+### 🔮 网络安全 · 自动化 · 软件开发 · 技术创新
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&center=true&vCenter=true&random=false&width=600&lines=Building+the+Future%2C+One+Commit+at+a+Time;Exploring+Cybersecurity+%26+Automation;Open+Source+Enthusiast+%26+Tech+Innovator" alt="Typing SVG" />
+
 </div>
 
-<!-- 打字效果显示你的专业领域 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity%2C+Automation%2C+Software+Development%2C+Tech%20Innovation" />
-</p>
+---
 
-<!-- 关于我部分 -->
-## 👨‍💻 关于我
-我是 **LceAn**，一名专注于网络安全、自动化、软件开发和技术创新的开发者。我热衷于探索新技术，开发实用工具，并致力于提升系统的安全性和效率。在我的 GitHub 上，你可以找到我参与的各种开源项目和技术分享。
+## 🎯 关于我
 
-<!-- GitHub 统计信息 -->
-<p align="center">
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=LceAn&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<div align="center">
 
-  <img align="center" width="400" src="https://streak-stats.demolab.com?user=LceAn&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=github-compact&hide_border=true&area=true">
-  <br/>
-  <img align="center" src="https://stats.justsong.cn/api/github?username=lceAn&theme=light&hide_border=true" />  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=9" />
+<table>
+<tr>
+<td width="50%">
 
+- 🌍 坐标：中国
+- 💼 专注于网络安全与自动化
+- 🚀 热衷于开源项目和技术创新
+- 📚 持续学习新技术
+- 🛠️ 喜欢开发实用工具
+- 🤝 欢迎交流合作
 
+</td>
+<td width="50%">
 
-<p align="center" style="position: relative;">
-  <!-- 结束背景 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=Thanks%20For%20Visiting%20My%20GitHub!&fontSize=80&fontAlign=50&fontAlignY=30&desc=Keep%20Coding%20and%20Stay%20Safe!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Footer">
-</p>
+- 🔐 网络安全研究者
+- 🤖 自动化脚本开发者
+- 💻 全栈开发者
+- 📦 开源项目贡献者
+- 🎓 技术分享者
+- ☕ 咖啡编码爱好者
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 💻 技术栈
+
+<div align="center">
+
+### 编程语言
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,go,js,ts,rust&theme=dark" />
+
+### Web 开发
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,vue,react,nextjs,nodejs,nestjs&theme=dark" />
+
+### 后端与框架
+
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,spring,dotnet,express,prisma&theme=dark" />
+
+### 数据库
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,elasticsearch&theme=dark" />
+
+### DevOps 与工具
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github,gitlab,ci,aws,nginx&theme=dark" />
+
+### 网络安全
+
+<img src="https://skillicons.dev/icons?i=wireshark,nmap,metasploit,burp&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub 统计
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LceAn&theme=radical&include_all_commits=true&show_icons=true&hide_border=true&count_private=true)
+
+</td>
+<td width="50%">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=radical&hide_border=true&layout=donut&langs_count=6)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+![Streak Stats](https://streak-stats.demolab.com?user=LceAn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+</td>
+<td width="50%">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=react-dark&hide_border=true&area=true)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏆 成就与徽章
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LceAn&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true)
+
+</div>
+
+---
+
+## 📦 热门项目
+
+<div align="center">
+
+| 项目 | 描述 | 星标 |
+|------|------|------|
+| [**LinuxClean**](https://github.com/LceAn/LinuxClean) | 🐧 Linux 系统清理工具，一键释放磁盘空间 | ⭐⭐⭐ |
+| [**qinglong-scripts**](https://github.com/LceAn/qinglong-scripts) | 🐉 青龙面板定时任务脚本集合 | ⭐⭐ |
+| [**OpenClaw Config**](https://github.com/LceAn/openclaw-config) | 🤖 OpenClaw AI 助手配置文件 | ⭐ |
+
+</div>
+
+---
+
+## 📈 贡献图
+
+<div align="center">
+
+![Contribution Graph](https://ghchart.rshah.org/4A90E2/LceAn)
+
+</div>
+
+---
+
+## 🎖️ 技能雷达
+
+<div align="center">
+
+![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LceAn&theme=radical&utcOffset=8)
+
+</div>
+
+---
+
+## 🌟 最近动态
+
+<div align="center">
+
+<!-- 这里可以放置最新的博客文章、项目更新等 -->
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📬 联系我
+
+<div align="center">
+
+| 平台 | 联系方式 |
+|------|---------|
+| 📧 邮箱 | [admin@lcean.com](mailto:admin@lcean.com) |
+| 💬 Telegram | [@TG_orz](https://t.me/TG_orz) |
+| 🐦 Twitter | [@LceAn666](https://twitter.com/LceAn666) |
+| 🐙 GitHub | [LceAn](https://github.com/LceAn) |
+
+**欢迎交流合作项目！🤝**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ 如果我的项目对你有帮助，请给个 Star！
+
+### 🙏 感谢访问我的 GitHub 主页！
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=60&fontAlign=50&fontAlignY=60&desc=Keep+Coding,+Stay+Awesome!&descAlign=50&descSize=25&descAlignY=35&animation=twinkling" alt="Footer" />
+
+![Visitor Count](https://profile-counter.glitch.me/LceAn/count.svg)
+
+</div>
+
+---
+
+<!--
+Made with ❤️ by LceAn
+Last Updated: 2026-03-03
+-->
