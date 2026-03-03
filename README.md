@@ -95,42 +95,11 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LceAn&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LceAn&theme=radical&include_all_commits=true&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&hide_border=true&layout=compact&theme=radical)
 
-</td>
-<td width="50%">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LceAn&theme=radical&hide_border=true&layout=donut&langs_count=6)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-![Streak Stats](https://streak-stats.demolab.com?user=LceAn&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-</td>
-<td width="50%">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LceAn&theme=react-dark&hide_border=true&area=true)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏆 成就与徽章
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LceAn&theme=radical&column=7&margin-w=15&margin-h=15&no-bg=true)
+![Streak Stats](https://streak-stats.demolab.com?user=LceAn&theme=radical&hide_border=true)
 
 </div>
 
@@ -145,38 +114,6 @@
 | [**LinuxClean**](https://github.com/LceAn/LinuxClean) | 🐧 Linux 系统清理工具，一键释放磁盘空间 | ⭐⭐⭐ |
 | [**qinglong-scripts**](https://github.com/LceAn/qinglong-scripts) | 🐉 青龙面板定时任务脚本集合 | ⭐⭐ |
 | [**OpenClaw Config**](https://github.com/LceAn/openclaw-config) | 🤖 OpenClaw AI 助手配置文件 | ⭐ |
-
-</div>
-
----
-
-## 📈 贡献图
-
-<div align="center">
-
-![Contribution Graph](https://ghchart.rshah.org/4A90E2/LceAn)
-
-</div>
-
----
-
-## 🎖️ 技能雷达
-
-<div align="center">
-
-![Skill Radar](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LceAn&theme=radical&utcOffset=8)
-
-</div>
-
----
-
-## 🌟 最近动态
-
-<div align="center">
-
-<!-- 这里可以放置最新的博客文章、项目更新等 -->
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -207,15 +144,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=60&fontAlign=50&fontAlignY=60&desc=Keep+Coding,+Stay+Awesome!&descAlign=50&descSize=25&descAlignY=35&animation=twinkling" alt="Footer" />
 
-![Visitor Count](https://profile-counter.glitch.me/LceAn/count.svg)
 
----
-
-### 📜 历史版本
-
-查看我的 GitHub Profile 成长历程：
-- [📦 归档目录](archive/) - 历史版本 README
-- [📝 更新日志](UPDATE_LOG.md) - 详细更新记录
 
 </div>
 
