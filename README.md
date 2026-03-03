@@ -1,7 +1,10 @@
 <!--
 👋 欢迎来到我的 GitHub 个人主页！
-📅 Last Updated: 2026
+📅 Last Updated: 2026-03-03
 🚀 Keep Coding, Stay Curious!
+
+📜 历史版本：/archive
+📝 更新日志：UPDATE_LOG.md
 -->
 
 <div align="center">
@@ -205,6 +208,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Thanks+For+Visiting!&fontSize=60&fontAlign=50&fontAlignY=60&desc=Keep+Coding,+Stay+Awesome!&descAlign=50&descSize=25&descAlignY=35&animation=twinkling" alt="Footer" />
 
 ![Visitor Count](https://profile-counter.glitch.me/LceAn/count.svg)
+
+---
+
+### 📜 历史版本
+
+查看我的 GitHub Profile 成长历程：
+- [📦 归档目录](archive/) - 历史版本 README
+- [📝 更新日志](UPDATE_LOG.md) - 详细更新记录
 
 </div>
 
