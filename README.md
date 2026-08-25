@@ -1,6 +1,6 @@
 <!--
 👋 欢迎来到我的 GitHub 个人主页！
-📅 Last Updated: 2026-03-03
+📅 Last Updated: 2026-08-25
 🚀 Keep Coding, Stay Curious!
 
 📜 历史版本：/archive
@@ -39,6 +39,7 @@
 - 🚀 热衷于开源项目和技术创新
 - 📚 持续学习新技术
 - 🛠️ 喜欢开发实用工具
+- 📦 在 GitHub 上维护 24+ 个公开项目
 - 🤝 欢迎交流合作
 
 </td>
@@ -48,6 +49,7 @@
 - 🤖 自动化脚本开发者
 - 💻 全栈开发者
 - 📦 开源项目贡献者
+- 🧩 关注跨平台工具与开发效率
 - 🎓 技术分享者
 - ☕ 咖啡编码爱好者
 
@@ -112,9 +114,12 @@
 | 项目 | 描述 | 星标 |
 |------|------|------|
 | [**LinuxClean**](https://github.com/LceAn/LinuxClean) | 🐧 Linux 系统清理工具，一键释放磁盘空间 | ⭐⭐⭐ |
-| [**qinglong-scripts**](https://github.com/LceAn/qinglong-scripts) | 🐉 青龙面板定时任务脚本集合 | ⭐⭐ |
-| [**OpenClaw Config**](https://github.com/LceAn/openclaw-config) | 🤖 OpenClaw AI 助手配置文件 | ⭐ |
+| [**proxy-filter-rules**](https://github.com/LceAn/proxy-filter-rules) | 📦 Quantumult X & Surge 分流规则集合 | ⭐⭐ |
+| [**UploadToGithub**](https://github.com/LceAn/UploadToGithub) | 🚀 Python 编写的一键推送 GitHub 工具 | — |
+| [**RSS-Reader**](https://github.com/LceAn/RSS-Reader) | 📰 Go 编写的 RSS 阅读器优化项目 | ⭐⭐ |
+| [**qinglong-scripts**](https://github.com/LceAn/qinglong-scripts) | 🐉 青龙面板定时任务脚本集合 | ⭐ |
 
+更多项目请访问我的 [GitHub 主页](https://github.com/LceAn)，目前共有 **24 个公开仓库**。
 </div>
 
 ---
@@ -152,7 +157,7 @@
 
 <!--
 Made with ❤️ by LceAn
-Last Updated: 2026-03-03
+Last Updated: 2026-08-25
 -->
 
 ---
