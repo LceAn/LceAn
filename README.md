@@ -1,6 +1,6 @@
 <!--
 👋 欢迎来到我的 GitHub 个人主页！
-📅 Last Updated: 2026-08-25
+📅 Last Updated: 2026-08-29
 🚀 Keep Coding, Stay Curious!
 
 📜 历史版本：/archive
@@ -12,13 +12,16 @@
 # 👨‍💻 Hi, I'm LceAn
 
 [![GitHub](https://img.shields.io/badge/GitHub-LceAn-black?logo=github&style=for-the-badge)](https://github.com/LceAn)
+[![Website](https://img.shields.io/badge/Website-lcean.com-0A66C2?logo=googlechrome&logoColor=white&style=for-the-badge)](https://www.lcean.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@TG__orz-26A5E4?logo=telegram&style=for-the-badge)](https://t.me/TG_orz)
-[![Twitter](https://img.shields.io/badge/Twitter-@LceAn666-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/LceAn666)
+[![X](https://img.shields.io/badge/X-@LceAn666-black?logo=x&style=for-the-badge)](https://x.com/LceAn666)
 [![Email](https://img.shields.io/badge/Email-admin@lcean.com-EA4335?logo=gmail&style=for-the-badge)](mailto:admin@lcean.com)
 
 ---
 
-### 🔮 网络安全 · 自动化 · 软件开发 · 技术创新
+### 🔮 网络安全 · 自动化 · 开源工具 · 跨平台实践
+
+> 星光荡开宇宙，代码连接想象与现实。
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&center=true&vCenter=true&random=false&width=600&lines=Building+the+Future%2C+One+Commit+at+a+Time;Exploring+Cybersecurity+%26+Automation;Open+Source+Enthusiast+%26+Tech+Innovator" alt="Typing SVG" />
 
@@ -35,27 +38,40 @@
 <td width="50%">
 
 - 🌍 坐标：中国
-- 💼 专注于网络安全与自动化
-- 🚀 热衷于开源项目和技术创新
-- 📚 持续学习新技术
-- 🛠️ 喜欢开发实用工具
-- 📦 在 GitHub 上维护 24+ 个公开项目
+- 🔐 关注网络安全与系统实践
+- 🤖 用自动化解决重复工作
+- 🛠️ 持续打磨简单、实用的开源工具
+- 📦 在 GitHub 上维护 24 个公开项目
 - 🤝 欢迎交流合作
 
 </td>
 <td width="50%">
 
-- 🔐 网络安全研究者
-- 🤖 自动化脚本开发者
-- 💻 全栈开发者
-- 📦 开源项目贡献者
-- 🧩 关注跨平台工具与开发效率
-- 🎓 技术分享者
-- ☕ 咖啡编码爱好者
+- 🐧 Linux 系统工具与运维脚本
+- 🐍 Python 自动化与 Web 服务
+- 🌐 JavaScript 前端与插件开发
+- 🧩 Go 跨平台工具探索
+- 🚀 AI 助手与开发效率实践
+- ☕ 保持好奇，持续构建
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## ✨ 当前方向
+
+<div align="center">
+
+| 方向 | 正在构建 |
+|------|----------|
+| 🐧 Linux 与服务器 | 系统初始化、清理、状态监控与容器可视化 |
+| 🤖 自动化工作流 | GitHub 推送、配置同步与日常任务脚本 |
+| 🌐 Web 与插件 | 设备管理界面增强、导航页与轻量 Web 工具 |
+| 🔐 网络与安全 | 分流规则维护、网络工具与安全实践 |
 
 </div>
 
@@ -111,13 +127,13 @@
 
 <div align="center">
 
-| 项目 | 描述 | 星标 |
-|------|------|------|
-| [**LinuxClean**](https://github.com/LceAn/LinuxClean) | 🐧 Linux 系统清理工具，一键释放磁盘空间 | ⭐⭐⭐ |
-| [**proxy-filter-rules**](https://github.com/LceAn/proxy-filter-rules) | 📦 Quantumult X & Surge 分流规则集合 | ⭐⭐ |
-| [**UploadToGithub**](https://github.com/LceAn/UploadToGithub) | 🚀 Python 编写的一键推送 GitHub 工具 | — |
-| [**RSS-Reader**](https://github.com/LceAn/RSS-Reader) | 📰 Go 编写的 RSS 阅读器优化项目 | ⭐⭐ |
-| [**qinglong-scripts**](https://github.com/LceAn/qinglong-scripts) | 🐉 青龙面板定时任务脚本集合 | ⭐ |
+| 项目 | 描述 | ⭐ |
+|------|------|---:|
+| [**UTools-Beautifier**](https://github.com/LceAn/UTools-Beautifier) | ✨ ZTE F50 UFI-TOOLS 页面美化与插件管理增强 | 25 |
+| [**LinuxClean**](https://github.com/LceAn/LinuxClean) | 🐧 Linux 常用软件清理工具 | 3 |
+| [**DockerStatusWeb**](https://github.com/LceAn/DockerStatusWeb) | 🐳 基于 Flask 的 Docker 容器信息 Web 展示 | 3 |
+| [**proxy-filter-rules**](https://github.com/LceAn/proxy-filter-rules) | 📦 Quantumult X 与 Surge 分流规则集合 | 2 |
+| [**RSS-Reader**](https://github.com/LceAn/RSS-Reader) | 📰 使用 Go 优化的 RSS 阅读器 | 2 |
 
 更多项目请访问我的 [GitHub 主页](https://github.com/LceAn)，目前共有 **24 个公开仓库**。
 </div>
@@ -130,9 +146,10 @@
 
 | 平台 | 联系方式 |
 |------|---------|
+| 🌐 网站 | [www.lcean.com](https://www.lcean.com) |
 | 📧 邮箱 | [admin@lcean.com](mailto:admin@lcean.com) |
 | 💬 Telegram | [@TG_orz](https://t.me/TG_orz) |
-| 🐦 Twitter | [@LceAn666](https://twitter.com/LceAn666) |
+| 𝕏 X | [@LceAn666](https://x.com/LceAn666) |
 | 🐙 GitHub | [LceAn](https://github.com/LceAn) |
 
 **欢迎交流合作项目！🤝**
@@ -157,5 +174,5 @@
 
 <!--
 Made with ❤️ by LceAn
-Last Updated: 2026-08-25
+Last Updated: 2026-08-29
 -->
