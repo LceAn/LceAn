@@ -41,7 +41,7 @@
 - 🔐 关注网络安全与系统实践
 - 🤖 用自动化解决重复工作
 - 🛠️ 持续打磨简单、实用的开源工具
-- 📦 在 GitHub 上维护 24 个公开项目
+- 📦 在 GitHub 上维护 26 个公开项目
 - 🤝 欢迎交流合作
 
 </td>
@@ -135,7 +135,7 @@
 | [**proxy-filter-rules**](https://github.com/LceAn/proxy-filter-rules) | 📦 Quantumult X 与 Surge 分流规则集合 | 2 |
 | [**RSS-Reader**](https://github.com/LceAn/RSS-Reader) | 📰 使用 Go 优化的 RSS 阅读器 | 2 |
 
-更多项目请访问我的 [GitHub 主页](https://github.com/LceAn)，目前共有 **24 个公开仓库**。
+更多项目请访问我的 [GitHub 主页](https://github.com/LceAn)，目前共有 **26 个公开仓库**。
 </div>
 
 ---
